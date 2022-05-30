@@ -8,6 +8,12 @@
 
 .title{
     text-align: center;
+    font-style: oblique;
+    font-weight: 700;
+}
+.title span{
+    font-weight: 700;
+    color: #BC3A80;
 }
 
 .contact-form{
